@@ -2,4 +2,4 @@
 
 ## Final Challenge Project
 
-Dataset : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+csv : https://www.kaggle.com/uciml/pima-indians-diabetes-database
